@@ -1,3 +1,3 @@
-# PocketKnifeApp1
-[![](https://jitpack.io/v/tompearson/PocketKnifeApplication.svg)](https://jitpack.io/#tompearson/PocketKnifeApplication)
+# PocketKnifeApplication
+[![](https://jitci.com/gh/tompearson/PocketKnifeApplication/svg)](https://jitci.com/gh/tompearson/PocketKnifeApplication)
 
